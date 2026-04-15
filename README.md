@@ -22,7 +22,7 @@ const rawan = {
   focus:       ["Frontend", "UI/UX"],
   degree:      "Computer Science 🎓",
   location:    "Riyadh, Saudi Arabia 🇸🇦",
-  superpower:  "Making pixels fall in love with logic",
+  superpower:  "Building experiences that speak before words do",
   currentlyOn: "Building things that feel as good as they look",
   believes:    "Great UX is invisible — bad UX is unforgettable"
 };
