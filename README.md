@@ -67,35 +67,14 @@ const rawan = {
 
 ---
 
-### 🏆 Trophies
+### 🌙 Currently Into
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rawan445&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-<div align="center">
-
-[![Grad Frontend](https://github-readme-stats.vercel.app/api/pin/?username=rawan445&repo=graduation-project-FronEnd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&border_radius=15)](https://github.com/rawan445/graduation-project-FronEnd)
-[![Grad Backend](https://github-readme-stats.vercel.app/api/pin/?username=rawan445&repo=graduation-project-BackEnd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&border_radius=15)](https://github.com/rawan445/graduation-project-BackEnd)
-[![Appointments](https://github-readme-stats.vercel.app/api/pin/?username=rawan445&repo=Appointments-reservation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&border_radius=15)](https://github.com/rawan445/Appointments-reservation)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rawan445&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="100%"/>
-
-</div>
+```
+🎨  Crafting pixel-perfect UI components
+📐  Designing intuitive user experiences in Figma
+💜  Learning more about design systems & accessibility
+🚀  Turning creative ideas into real products
+```
 
 ---
 
