@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=💜+Turning+ideas+into+beautiful+interfaces;🎨+Where+code+meets+design;✨+UI%2FUX+%7C+Frontend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=💜+Turning+ideas+into+beautiful+interfaces;🎨+Where+code+meets+design;✨+UI%2FUX+%7C+Frontend+Engineer)](https://git.io/typing-svg)
 
 </div>
 
