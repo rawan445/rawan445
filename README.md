@@ -67,6 +67,16 @@ const rawan = {
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rawan445&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="100%"/>
+
+</div>
+
+---
+
 ### 🌙 Currently Into
 
 ```
