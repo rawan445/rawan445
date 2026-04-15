@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rawan%20ALanazi&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rawan%20ALanazi&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=💜+Turning+ideas+into+beautiful+interfaces;🎨+Where+code+meets+design;✨+UI%2FUX+%7C+Frontend+%7C+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=💜+Turning+ideas+into+beautiful+interfaces;🎨+Where+code+meets+design;✨+UI%2FUX+%7C+Frontend+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 ```javascript
 const rawan = {
   title:       "Software Engineer",
-  focus:       ["Frontend", "Full Stack", "UI/UX"],
+  focus:       ["Frontend", "UI/UX"],
   degree:      "Computer Science 🎓",
   location:    "Riyadh, Saudi Arabia 🇸🇦",
   superpower:  "Making pixels fall in love with logic",
@@ -30,7 +30,7 @@ const rawan = {
 
 - 🎨 I treat every interface like a canvas
 - 💡 CS graduate who codes with a designer's eye
-- 🔥 Frontend is my art, Full Stack is my craft
+- 🔥 Frontend is my art, UI/UX is my craft
 - 🌱 Always exploring the space where **code meets creativity**
 - ✨ Obsessed with clean UI, smooth animations & pixel-perfect design
 
